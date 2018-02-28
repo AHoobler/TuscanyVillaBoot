@@ -1,2 +1,23 @@
-﻿body {
+﻿.bg-dark{
+    background-color: #474e5d!important;
 }
+
+.nav-link{
+    color:white!important;
+    margin-right:10px;
+    letter-spacing:2px;
+}
+
+.col-9.maincol {
+    background: url('images/tuscany-villas-sant-anna (1).jpg') no-repeat center center; 
+    height: 350px;
+}
+
+div.col.navcol{
+    padding:0;
+}
+
+div.col-3.maincol {
+    background: url('images/map.jpg')no-repeat center center;
+}
+

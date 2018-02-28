@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TucanyBootstrap", "TucanyBo
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "51707"
+		SlnRelativePath = "TucanyBootstrap\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
