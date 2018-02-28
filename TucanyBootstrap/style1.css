@@ -10,7 +10,7 @@
 
 .col-9.maincol {
     background: url('images/tuscany-villas-sant-anna (1).jpg') no-repeat center center; 
-    height: 350px;
+    height: 300px;
 }
 
 div.col.navcol{
@@ -21,3 +21,11 @@ div.col-3.maincol {
     background: url('images/map.jpg')no-repeat center center;
 }
 
+#jumbomain{
+    background: none;
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    opacity: .8;
+}
