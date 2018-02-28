@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TucanyBootstrap", "TucanyBootstrap\", "{7811F581-EB85-45CF-AD36-79713E8C9B08}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51707"
+		Debug.AspNetCompiler.PhysicalPath = "TucanyBootstrap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51707\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51707"
+		Release.AspNetCompiler.PhysicalPath = "TucanyBootstrap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51707\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51707"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7811F581-EB85-45CF-AD36-79713E8C9B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7811F581-EB85-45CF-AD36-79713E8C9B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3790144D-8CDD-4488-B436-566BA3DEE434}
+	EndGlobalSection
+EndGlobal
