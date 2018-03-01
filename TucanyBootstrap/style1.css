@@ -29,3 +29,80 @@ div.col-3.maincol {
     letter-spacing: 2px;
     opacity: .8;
 }
+
+.row.subheaderbar{
+    text-align:center;
+    background-color: #474e5d;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/*locations*/
+
+.col-5.locationscolodd {
+    background: url('images/italy-mountain-villa.jpeg')no-repeat center center;
+    background-size: cover;
+    height: 270px;
+}
+
+.col-5.locationscolodd2 {
+    background: url('images/tuscany-grape-field-nature-51947.jpeg')no-repeat center center;
+    background-size: cover;
+    height: 270px;
+}
+
+.col-7.locationscolodd{
+    padding-top: 25px;
+    line-height:  17px;
+}
+
+.row.locationsrowodd {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 300px;
+}
+
+p.locationheader{
+    font-size: 20px;
+}
+
+button.btn.btn-secondary{
+    background-color: #474e5d;
+}
+
+.row.locationsroweven {
+    background-color: #474e5d;
+    height: 300px;
+    color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    
+}
+
+#btneven{
+    background-color: white;
+    color: #474e5d;
+}
+
+.col-5.locationscoleven {
+    background: url('images/modern-villa.jpeg')no-repeat center center;
+    background-size: cover;
+    height: 245px;
+}
+
+
+/*checker board*/
+
+#pic1.col-4.checkercol {
+    background: url('images/pool.jpg')no-repeat center center;
+    background-size: cover;
+    width: 248px;
+    height: 248px;   
+}
+
+#pic2.col-4.checkercol {
+    background: url('images/pool1.jpg')no-repeat center center;
+    background-size: cover;
+}
